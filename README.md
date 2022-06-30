@@ -8,3 +8,8 @@
   * In this analysis, I have make use of Pandas and Seaborn libraries.
   * Seaborn library, for visualization purpose.
   * I have tried to work with all the attribute and make some analysis based on them.
+
+- **Case Study 3**
+  ** In This Case Study, dataset is based on a Forest Fires in Brazil from kaggle.
+  ** In this, i have make analysis on like what was the total no. that fire took place on year basis, state basis and so on.
+  ** I have make use barplot as a visualization graph.
