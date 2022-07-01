@@ -10,6 +10,6 @@
   * I have tried to work with all the attribute and make some analysis based on them.
 
 - **Case Study 3**
-  ** In This Case Study, dataset is based on a Forest Fires in Brazil from kaggle.
-  ** In this, i have make analysis on like what was the total no. that fire took place on year basis, state basis and so on.
-  ** I have make use barplot as a visualization graph.
+  * In This Case Study, dataset is based on a Forest Fires in Brazil from kaggle.
+  * In this, i have make analysis on like what was the total no. that fire took place on year basis, state basis and so on.
+  * I have make use barplot as a visualization graph.
