@@ -13,3 +13,9 @@
   * In This Case Study, dataset is based on a Forest Fires in Brazil from kaggle.
   * In this, i have make analysis on like what was the total no. that fire took place on year basis, state basis and so on.
   * I have make use barplot as a visualization graph.
+
+- **Case Study 4**
+  * In This Case Study, Dataset is based on iris (most common dataset ).
+  * This dataset, consists of few attributes only. 
+  * For a beginner, this dataset is good to start with.
+  * I have make use of Seaborn Library for visualization.
